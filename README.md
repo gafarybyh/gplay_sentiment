@@ -22,7 +22,7 @@ Proyek ini memungkinkan Anda untuk menganalisis sentimen ulasan aplikasi di goog
 
 ```bash
 git clone [https://github.com/gafarybyh/gplay_sentiment.git](https://github.com/gafarybyh/gplay_sentiment.git)
-cd sentiment-analyzer
+cd gplay_sentiment
 ```
 
 ### 2. Buat Virtual Environment (Opsional)
