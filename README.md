@@ -58,36 +58,36 @@ python main.py
 ```
 gplay_sentiment/
 ├── app/
-│ ├── analyzer.py # Pipeline analisis utama
+│ ├── analyzer.py       # Pipeline analisis utama
 │ ├── review_scraper.py # Scraping ulasan dari Google Play
-│ ├── model_loader.py # Load model BERT dan tokenizer
-│ ├── llm_report.py # Membuat prompt dan memanggil LLM
-│ └── gemini.py # Fungsi pemanggilan API Gemini
+│ ├── model_loader.py   # Load model BERT dan tokenizer
+│ ├── llm_report.py     # Membuat prompt dan memanggil LLM
+│ └── gemini.py         # Fungsi pemanggilan API Gemini
 │
-├── main.py # Entry point program
-├── requirements.txt # Daftar dependensi
-├── .env # File Environment (Secrets)
-└── README.md # Dokumentasi proyek
+├── main.py             # Entry point program
+├── requirements.txt    # Daftar dependensi
+├── .env                # File Environment (Secrets)
+└── README.md           # Dokumentasi proyek
 ```
 
 ## 🧪 Library yang Digunakan
 
-Python 3.10+
+- Python 3.10+
 
-Transformers - Hugging Face
+- Transformers - Hugging Face
 
-PyTorch
+- PyTorch
 
-Google Play Scraper
+- Google Play Scraper
 
-Gemini API (LLM)
+- Gemini API (LLM)
 
 ## 📤 Output yang Dihasilkan
 
-hasil_modernbertbase_YYYYMMDD_HHMMSS.csv
+- hasil_modernbertbase_YYYYMMDD_HHMMSS.csv
 ➤ Dataset lengkap ulasan beserta prediksi sentimen.
 
-laporan_sentimen_YYYYMMDD_HHMMSS.txt
+- laporan_sentimen_YYYYMMDD_HHMMSS.txt
 ➤ Laporan analisis sentimen otomatis dalam Bahasa Indonesia.
 
 ## 📝 Isi Laporan
