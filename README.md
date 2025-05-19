@@ -2,13 +2,13 @@
 
 =====================================
 
-Proyek ini memungkinkan Anda untuk menganalisis sentimen ulasan aplikasi di google play menggunakan model machine learning. Proyek ini dapat membantu Anda memahami sentimen pengguna terhadap aplikasi Anda dan memberikan rekomendasi untuk perbaikan.
+Proyek ini memungkinkan untuk menganalisis sentimen ulasan aplikasi di google play menggunakan model machine learning. Proyek ini dapat membantu memahami sentimen pengguna terhadap aplikasi dan memberikan rekomendasi untuk perbaikan.
 
 ## Fitur Utama
 
 ---
 
--   **Scraping**: Otomatis ambil komentar dari app di Google Play Store
+-   **Scraping**: Otomatis ambil komentar dari daftar app di Google Play Store menggunakan app_id: ['com.shopee.id', 'com.tokopedia.tkpd', 'com.lazada.android']
 -   **Sentiment Analysis**: Menggunakan model multilingual / multibahasa (`modernBERT`) dari Hugging Face untuk menganalisis sentimen komentar
 -   **Ringkasan Statistik**: Per aplikasi (jumlah ulasan, rata-rata skor, dsb)
 -   **Laporan Otomatis**: Hasil analisis dijelaskan dan dibuat laporan menggunakan LLM (GEMINI)
