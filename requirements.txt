@@ -1,0 +1,6 @@
+google-play-scraper
+google-generativeai
+dotenv
+pandas
+transformers
+torch
