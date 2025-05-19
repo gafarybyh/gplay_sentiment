@@ -81,10 +81,10 @@ gplay_sentiment/
 
 ## 📤 Output yang Dihasilkan
 
-- hasil_modernbertbase_YYYYMMDD_HHMMSS.csv
-➤ Dataset lengkap ulasan beserta prediksi sentimen.
+- Analisis_YYYYMMDD_HHMMSS.csv
+➤ Dataset lengkap ulasan beserta analisa sentimen.
 
-- laporan_sentimen_YYYYMMDD_HHMMSS.txt
+- Analisis_Report_YYYYMMDD_HHMMSS.txt
 ➤ Laporan analisis sentimen otomatis dalam Bahasa Indonesia.
 
 ## 📝 Isi Laporan
