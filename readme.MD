@@ -55,7 +55,7 @@ python main.py
 ```
 
 ## Struktur Project
-
+```
 gplay_sentiment/
 ├── app/
 │ ├── analyzer.py # Pipeline analisis utama
@@ -68,10 +68,11 @@ gplay_sentiment/
 ├── requirements.txt # Daftar dependensi
 ├── .env # File Environment (Secrets)
 └── README.md # Dokumentasi proyek
+```
 
-## 🧪 Teknologi yang Digunakan
+## 🧪 Library yang Digunakan
 
-Python 3.8+
+Python 3.10+
 
 Transformers - Hugging Face
 
