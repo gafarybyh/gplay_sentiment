@@ -77,7 +77,7 @@ gplay_sentiment/
 - Sentiment Multilingual Model (`modernBERT`)
 - PyTorch
 - Google Play Scraper
-- Gemini API (LLM)
+- Gemini API
 
 ## 📤 Output yang Dihasilkan
 
