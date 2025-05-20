@@ -2,7 +2,7 @@
 
 =====================================
 
-Proyek ini memungkinkan untuk menganalisis sentimen ulasan aplikasi di google play menggunakan model machine learning. Proyek ini dapat membantu memahami sentimen pengguna terhadap aplikasi dan memberikan rekomendasi untuk perbaikan.
+Project ini memungkinkan untuk menganalisis sentimen ulasan aplikasi di google play menggunakan model machine learning. Project ini dapat membantu memahami sentimen pengguna terhadap aplikasi dan memberikan rekomendasi untuk perbaikan.
 
 ## Fitur Utama
 
