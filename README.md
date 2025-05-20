@@ -11,7 +11,7 @@ Project ini memungkinkan untuk menganalisis sentimen ulasan aplikasi di google p
 -   **Scraping**: Otomatis ambil komentar dari daftar app di Google Play Store menggunakan app_id: ['com.shopee.id', 'com.tokopedia.tkpd', 'com.lazada.android']
 -   **Sentiment Analysis**: Menggunakan model multilingual / multibahasa (`modernBERT`) dari Hugging Face untuk menganalisis sentimen komentar
 -   **Ringkasan Statistik**: Per aplikasi (jumlah ulasan, rata-rata skor, dsb)
--   **Laporan Otomatis**: Hasil analisis dijelaskan dan dibuat laporan menggunakan LLM (GEMINI)
+-   **Laporan Otomatis**: Hasil analisis dijelaskan dan dibuat laporan menggunakan GEMINI
 -   **Hasil CSV & TXT**: Semua hasil analisis dan laporan disimpan di file
 
 ## Cara Menjalankan
